@@ -1,6 +1,16 @@
 
 .container {
-	color: purple;
+	color: green;
 	position: center;
 	padding: 50px;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.dropdown{
+	height: 50px;
+	background-color: green;
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
 }
